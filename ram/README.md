@@ -1,0 +1,7 @@
+# RAM
+
+## Crucial
+
+## Crucial DDR5 5200 2x32GB SODIMM
+
+![Crucial DDR5 5200 2x32GB SODIMM](Crucial_DDR5_5200_2x32GB_SODIMM.png)
