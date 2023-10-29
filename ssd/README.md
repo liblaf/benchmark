@@ -15,3 +15,9 @@
 ### Samsung PM9A1 1TB
 
 ![Samsung PM9A1 1TB](Samsung_PM9A1_1TB.png)
+
+## SK hynix
+
+### SK hynix PC801 2TB
+
+![SK hynix PC801 2TB](SK_hynix_PC801_2TB.png)
